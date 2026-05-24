@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Recruitify.API/Recruitify.API.csproj" />
+  <Project Path="Recruitify.Application/Recruitify.Application.csproj" />
+  <Project Path="Recruitify.Domain/Recruitify.Domain.csproj" />
+  <Project Path="Recruitify.Infrastructure/Recruitify.Infrastructure.csproj" />
+</Solution>
