@@ -1,0 +1,9 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Recruitify.Domain.Entities;
+global using Recruitify.Application.Common.Interfaces;
+global using Recruitify.Domain.Common;
+global using System.Reflection;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using Recruitify.Infrastructure.Data;
